@@ -1,5 +1,5 @@
 # Bike Sales Analysis
-Analyze bicycle sales data based on customer data to identify the characteristics of potential consumers and understand the factors that influence bicycle purchase decisions.
+Analyze bike sales data based on customer data to identify the characteristics of potential consumers and understand the factors that influence bicycle purchase decisions.
 
 ## Project Overview  
 This project used a dataset of customer data to analyze bicycle purchase trends. The analysis was conducted using Microsoft Excel, specifically with Pivot Tables to explore the relationship between demographic attributes (age, income, gender) and commuting habits on bicycle purchase decisions.  
@@ -37,6 +37,10 @@ This dataset contains demographic and behavioral information of a number of indi
 
 ## Conclusion  
 The most potential consumers for bicycle products are productive-age males with upper-middle income who live close to the workplace. This analysis can be used to develop more targeted marketing strategies, such as targeting the productive age segment in residential areas near office areas.  
+
+## Dashboard Preview  
+![image](https://github.com/user-attachments/assets/e5e04f63-f1bf-4155-a8a1-78fd797126e9)
+
 
 If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar  
 #BikeSalesAnalysis #ExcelProject #DataAnalysis #SalesAnalytics #CustomerSegmentation #PivotTable #MicrosoftExcel #DataVisualization #DataInsights #BeginnerDataProject #DescriptiveAnalytics #BikeSales #MarketingStrategy #ConsumerBehavior
