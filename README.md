@@ -42,5 +42,6 @@ The most potential consumers for bicycle products are productive-age males with 
 ![image](https://github.com/user-attachments/assets/e5e04f63-f1bf-4155-a8a1-78fd797126e9)
 
 
-If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar  
+If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar    
+
 #BikeSalesAnalysis #ExcelProject #DataAnalysis #SalesAnalytics #CustomerSegmentation #PivotTable #MicrosoftExcel #DataVisualization #DataInsights #BeginnerDataProject #DescriptiveAnalytics #BikeSales #MarketingStrategy #ConsumerBehavior
